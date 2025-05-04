@@ -2,7 +2,7 @@
 
 This Power BI report analyzes the onion trading rates across multiple years (2016–2022) to help traders identify seasonal trends, spot anomalies, and determine optimal buying strategies.
 
-![Onion Price Trend](onion_Dashboard.png)
+![Onion Price Trend](Dashboard.png)
 
 ## 📌 Objective
 To provide onion traders with data-driven insights into pricing trends across months and years — enabling smarter purchase timing and better risk management.
